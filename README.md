@@ -1,6 +1,6 @@
 # Calculadora web con JS
 Calculadora web sencilla hecha con html, css y js.
-![Calculadora Web](calculadora.png)
+<img src="calculadora.png" alt="Calculadora Web" width="400" height="300">
 ****
 ## Características
 - **Operaciones que realiza:**
